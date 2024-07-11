@@ -6460,7 +6460,7 @@ figcaption {
   color: #fff;
   background-color: rgba(255, 255, 255, 0);
   border-radius: 24px;
-  max-width: 20vw;
+  width: 20rem;
   height: 3rem;
 }
 .form-2 {
