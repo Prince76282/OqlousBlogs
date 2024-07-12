@@ -6453,14 +6453,14 @@ figcaption {
   text-align: center;
   background-color: #fff;
   border-radius: 24px;
-  max-width: 10vw;
+  max-width: 20rem;
   height: 3rem;
 }
 .text-field {
   color: #fff;
   background-color: rgba(255, 255, 255, 0);
   border-radius: 24px;
-  width: 20rem;
+  width: 15rem;
   height: 3rem;
 }
 .form-2 {
@@ -7338,7 +7338,7 @@ figcaption {
 /* Base styles for all devices */
 .container {
   width: 100%;
-  padding: 4em ;
+margin-top: 8rem;
   box-sizing: border-box;
 }
 
@@ -7397,6 +7397,16 @@ ul {
 
 /* Styles for tablets and larger screens */
 @media (min-width: 768px) {
+  .container {
+    
+  margin-top: 4rem;
+    box-sizing: border-box;
+  }
+  
+  .content {
+    margin: auto;
+    padding: 1rem;
+  }
   h2 {
     font-size: 2.5rem;
   }
