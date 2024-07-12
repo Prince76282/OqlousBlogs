@@ -7332,18 +7332,13 @@ figcaption {
 }
 
 
-.container{
-    max-width: 96rem;
-    padding: 8rem 12rem;
-
-}
 
 
 
 /* Base styles for all devices */
 .container {
   width: 100%;
-  padding: 1rem;
+  padding: 4em ;
   box-sizing: border-box;
 }
 
